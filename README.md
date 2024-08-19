@@ -5,10 +5,10 @@ I'm LK77, a self-motivated tech enthusiast and full stack developer.
 </p>
 
 <h4 align="center">
-💻 full stack developer <a href="https://github.com/ICE4587">@ICE4587</a> | 🌱 building <a href="https://github.com/akasrai/daily-quiz-mobile">Daily Quiz</a> | 💬 connect <a href="https://twitter.com/ICE4587">@ICE4587</a>
+💻 full stack developer <a href="https://github.com/ICE4587">@ICE4587</a> | 🌱 building  | 💬 connect <a href="https://twitter.com/ICE4587">@ICE4587</a>
 </h4>
 <p  align="center">
-<a href="https://akasrai.github.io/">https://akasrai.github.io</a>
+
 </p>
 
 <br/>
